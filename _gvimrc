@@ -1,0 +1,8 @@
+"カラーテーマの設定
+colorscheme torte
+""windowの縦・横サイズ
+set lines=40
+set columns=150
+"画面の透過具合
+gui
+set transparency=224
