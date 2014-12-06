@@ -39,6 +39,8 @@ set autoindent
 set backspace=indent,eol,start
 " 検索時にファイルの最後まで行ったら最初に戻る (nowrapscan:戻らない)
 set wrapscan
+" undofileいらんて
+set noundofile
 "----------------------------------------------------------------------------
 " ノーマルモードではセミコロンをコロンに。
 nnoremap ; :
